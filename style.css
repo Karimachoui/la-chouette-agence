@@ -7,6 +7,19 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.testimony{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.testimony__signature{
+    font-size: 15px;
+}
+
+.accroche{
+    font-size: 24px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
